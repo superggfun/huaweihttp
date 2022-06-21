@@ -1,6 +1,6 @@
 # huaweihttp
 华为云函数多IP爬虫
-
+![截屏](https://tva1.sinaimg.cn/large/008c6yxSgy1h3gaqc4mt6j31ha0pv1kx.jpg)
 ## 支持
 * GET
 * POST
