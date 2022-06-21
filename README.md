@@ -5,7 +5,7 @@
 * GET
 * POST
 * Headers
-* 自动no-refer
+* 自动no-reference
 * 自动修复链接地址
 
 ## 优化
