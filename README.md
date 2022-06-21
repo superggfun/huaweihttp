@@ -7,6 +7,7 @@
 * Headers
 * 自动no-reference
 * 自动修复链接地址
+* 多地点部署云函数，多IP
 
 ## 优化
 * 减少没有必要的复制变量，例如使用指针来复制[]byte
@@ -21,6 +22,9 @@
 7. 设置，触发器	API 网关服务(APIG)，安全认证：None
 8. 绑定API网关独立域名，SSL
 9. 域名后面加/实例名称/url=?https://www.baidu.com/
+
+## 费用
+![费用](https://tva1.sinaimg.cn/large/008c6yxSgy1h3gb6m1g6vj30v50aajzm.jpg)
 
 ## 免责声明
 内容仅用于学习研究，禁止用于任何商业或非法用途，违反者作者概不负责。
