@@ -1,6 +1,16 @@
 # huaweihttp
 华为云函数多IP爬虫
 
+## 支持
+* GET
+* POST
+* Headers
+* 自动no-refer
+* 自动修复链接地址
+
+## 优化
+* 减少没有必要的复制变量，例如使用指针来复制[]byte
+
 ## 部署在华为云
 1. [进入华为云函数](https://console.huaweicloud.com/functiongraph)
 2. 创建函数
